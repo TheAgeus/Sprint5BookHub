@@ -23,7 +23,7 @@ Discord -> ageus94
 ### Some screenshots
 Login
 
-![Login](images/diagrama.JPG)
+![Login](images/login.JPG)
 
 Dashboard
 
