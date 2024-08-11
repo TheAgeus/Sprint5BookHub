@@ -156,7 +156,7 @@ When I passed the API to build and run from Visual Studio Code, because I develo
 ### Entity-Relationship Diagram
 Below is the Entity-Relationship Diagram (ERD) for the BookHub API, detailing the relationships between users, books, and their lists (favorites, already read, wished).
 
-![Entity Relationship Diagram](images/diagrama.PNG)
+![Entity Relationship Diagram](images/diagrama.png)
 
 
 ### Retrospective
