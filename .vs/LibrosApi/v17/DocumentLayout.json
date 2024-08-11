@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\controllers\\userfavbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:controllers\\userfavbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\controllers\\useralreadyreadbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:controllers\\useralreadyreadbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\controllers\\userwishbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:controllers\\userwishbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\userwishbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\userwishbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\userfavbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\userfavbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\models\\useralreadyreadbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:models\\useralreadyreadbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\migrations\\20240809025857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:migrations\\20240809025857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\librosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:librosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\migrations\\20240809042704_createuseralreadyreadbookanduserwishbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:migrations\\20240809042704_createuseralreadyreadbookanduserwishbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|c:\\users\\ageus\\desktop\\dev\\visualbasic\\librosapi\\migrations\\20240809032410_createuserfavbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94754C-55A5-4109-8FAC-74E66DA07A4B}|LibrosApi.csproj|solutionrelative:migrations\\20240809032410_createuserfavbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAlreadyreadBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserAlreadyreadBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAlreadyreadBooksController.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserAlreadyreadBooksController.cs",
+              "RelativeToolTip": "Controllers\\UserAlreadyreadBooksController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:15:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:36:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:18:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserFavBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserFavBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserFavBooksController.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserFavBooksController.cs",
+              "RelativeToolTip": "Controllers\\UserFavBooksController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:26:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240809042704_CreateUserAlreadyreadBookAndUserWishBookTable.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809042704_CreateUserAlreadyreadBookAndUserWishBookTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240809042704_CreateUserAlreadyreadBookAndUserWishBookTable.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809042704_CreateUserAlreadyreadBookAndUserWishBookTable.cs",
+              "RelativeToolTip": "Migrations\\20240809042704_CreateUserAlreadyreadBookAndUserWishBookTable.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:27:05.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwvysAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:19:10.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T02:43:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserWishBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserWishBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserWishBooksController.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Controllers\\UserWishBooksController.cs",
+              "RelativeToolTip": "Controllers\\UserWishBooksController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAADUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:16:35.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:11:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserWishBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserWishBook.cs",
+              "RelativeDocumentMoniker": "Models\\UserWishBook.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserWishBook.cs",
+              "RelativeToolTip": "Models\\UserWishBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:11:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:49:13.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:32:46.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserFavBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserFavBook.cs",
+              "RelativeDocumentMoniker": "Models\\UserFavBook.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserFavBook.cs",
+              "RelativeToolTip": "Models\\UserFavBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:21:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAlreadyreadBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserAlreadyreadBook.cs",
+              "RelativeDocumentMoniker": "Models\\UserAlreadyreadBook.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\UserAlreadyreadBook.cs",
+              "RelativeToolTip": "Models\\UserAlreadyreadBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:12:30.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:59:41.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240809032410_CreateUserFavBookTable.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809032410_CreateUserFavBookTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240809032410_CreateUserFavBookTable.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809032410_CreateUserFavBookTable.cs",
+              "RelativeToolTip": "Migrations\\20240809032410_CreateUserFavBookTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:24:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240809025857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809025857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240809025857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Migrations\\20240809025857_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240809025857_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:58:57.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibrosApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\LibrosApi.csproj",
+              "RelativeDocumentMoniker": "LibrosApi.csproj",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\LibrosApi.csproj",
+              "RelativeToolTip": "LibrosApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T02:25:46.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ageus\\Desktop\\Dev\\VisualBasic\\LibrosApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:27:37.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

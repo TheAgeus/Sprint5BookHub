@@ -1,0 +1,7 @@
+Login = 169, 68, 935, 583, , 26, 26, 1049, 540, C
+Dashboard = 138, 128, 949, 581, , 26, 26, 1077, 721, C
+UserFavBooks = 104, 104, 929, 626, 
+UserWishBooks = 0, 0, 825, 522, C
+UserAlreadyreadBooks = 219, 42, 1044, 564, 
+UserRecommendedBooks = 78, 78, 903, 600, 
+bookDetailsForm = 52, 52, 877, 574, , 26, 26, 851, 548, C
